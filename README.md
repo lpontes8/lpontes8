@@ -1,12 +1,12 @@
-<h1 align="center">Hi, I'm Lucas Pontes.</h1>
-<h3 align="center">I study Systems Analysis and Development.</h3>
+<h1 align="center">Hello, World! I'm Lucas Pontes.</h1>
+<h3 align="center"></h3>
 
 <div>
   <ul>
     <li>🎓 I’m currently studying Systems Analysis and Development.</li>
     <li>🌱 I’m currently learning ReactJS.</li>
     <li>💻 I’m looking to collaborate on React app development.</li>
-    <li>Playing and learning with Arduino <img align="center" alt="Arduino Icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain-wordmark.svg" /></li>
+    <li>Fun: Soccer ⚽ and Arduino <img align="center" alt="Arduino Icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-plain-wordmark.svg" /></li>
   </ul>
 </div>
 
