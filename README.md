@@ -10,22 +10,22 @@
   </ul>
 </div>
 
-<div align="center">
+<div align="center" style="display: inline_block">
   <a href="https://github.com/lpontes8">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lpontes8&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpontes8&layout=compact&langs_count=7&theme=react"/>
 </div>
 
-<div display: "inline-block">
+<div style="display: inline_block">
   <div width="50%">
     <h3 align="left">Focus on:</h3>
-    <img align="center" alt="JS Icon" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <img align="center" alt="React-JS Icon" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+    <img align="center" alt="JS Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img align="center" alt="React-JS Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   </div>
   <div width="50%">
     <h3 align="left">Also interested in:</h3>
-    <img align="center" alt="Linux Icon" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-    <img align="center" alt="Git Icon" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img align="center" alt="Linux Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+    <img align="center" alt="Git Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </div>
 </div>
 
