@@ -16,7 +16,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpontes8&layout=compact&langs_count=7&theme=react"/>
 </div>
 
-<div style="display: inline-block">
+<div display: "inline-block">
   <div width="50%">
     <h3 align="left">Focus on:</h3>
     <img align="center" alt="JS Icon" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
