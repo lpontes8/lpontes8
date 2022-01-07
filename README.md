@@ -1,5 +1,4 @@
 <h1 align="center">Hello, World! I'm Lucas Pontes.</h1>
-<h3 align="center"></h3>
 
 <div>
   <ul>
