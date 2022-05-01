@@ -4,7 +4,6 @@
   <ul>
     <li>🎓 I’m currently studying Systems Analysis and Development.</li>
     <li>🌱 I’m currently learning Ionic.</li>
-    <li>💻 I’m looking to collaborate on React app development.</li>
     <li>Fun: 
       <ul>
         <li>
