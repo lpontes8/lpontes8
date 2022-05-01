@@ -3,7 +3,7 @@
 <div>
   <ul>
     <li>🎓 I’m currently studying Systems Analysis and Development.</li>
-    <li>🌱 I’m currently learning ReactJS.</li>
+    <li>🌱 I’m currently learning Ionic.</li>
     <li>💻 I’m looking to collaborate on React app development.</li>
     <li>Fun: 
       <ul>
@@ -11,7 +11,7 @@
           Soccer ⚽
         </li>
         <li>
-          Arduino <img align="center" alt="Arduino Icon" height="30" width="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" />
+          Reading 📖
         </li>
      </ul>
     </li>
@@ -31,6 +31,7 @@
     <img alt="CSS Icon" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img alt="JS Icon" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img alt="React-JS Icon" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
+    <img alt="Ionic Icon" height="30" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ionic/ionic-original.svg" />
     <img alt="Linux Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
     <img alt="Git Icon" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   </div>
